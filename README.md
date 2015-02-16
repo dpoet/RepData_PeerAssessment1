@@ -1,3 +1,9 @@
+
+**February 15th, 2015 Update**: you can see the final document (the *PA1_template.md* markdown file) by clicking [here](https://github.com/dpoet/RepData_PeerAssessment1/blob/master/PA1_template.md).
+
+Thank you!
+
+-----
 ## Introduction
 
 It is now possible to collect a large amount of data about personal
